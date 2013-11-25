@@ -1,2 +1,2 @@
-T2A3testap <b> Hello world cruel </b> How are you
+T2A3testap <b> Hello world </b> How are you
 ==========
